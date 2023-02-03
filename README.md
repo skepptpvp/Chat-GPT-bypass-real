@@ -1,4 +1,4 @@
-# README.md for Chat-GPT-bypass-real
+
 
 ## Introduction
 A Chat GPT bypass script made by Raiin.
