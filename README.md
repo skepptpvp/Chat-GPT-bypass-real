@@ -1,4 +1,4 @@
-
+##THIS MIGHT BE BROKEN AT THE MOMENT, ILL WORK ON FIXING IT IN A FEW DAYS
 
 ## Introduction
 A Chat GPT bypass script made by Raiin.
